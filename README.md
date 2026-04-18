@@ -4,6 +4,7 @@
 > AI-driven health-tech solution enhancing healthcare delivery, patient engagement, and health literacy.
 
 ---
+![Uploading image.png…]()
 
 ## 📌 Project Overview
 
