@@ -3,8 +3,9 @@
 > **Codecure @ SPIRIT 2026 · IIT (BHU) Varanasi**  
 > AI-driven health-tech solution enhancing healthcare delivery, patient engagement, and health literacy.
 
----
-![Uploading image.png…]()
+--
+"C:\Users\SAYAN\Downloads\Screenshot_18-4-2026_13419_localhost.jpeg"
+
 
 ## 📌 Project Overview
 
