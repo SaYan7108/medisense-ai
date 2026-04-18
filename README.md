@@ -228,11 +228,5 @@ Built with passion for Codecure @ SPIRIT 2026, IIT (BHU) Varanasi.
 
 ---
 
-## 📄 License
 
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
-> *"The best doctor gives the least medicine." — Benjamin Franklin*  
 > MediSense AI empowers patients to understand their health — so doctors can focus on healing.
