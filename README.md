@@ -4,7 +4,8 @@
 > AI-driven health-tech solution enhancing healthcare delivery, patient engagement, and health literacy.
 
 --
-"C:\Users\SAYAN\Downloads\Screenshot_18-4-2026_13419_localhost.jpeg"
+<img width="1763" height="2746" alt="Screenshot_18-4-2026_13419_localhost" src="https://github.com/user-attachments/assets/fbf0f60c-f75a-4323-9c3c-47ae76cc570a" />
+
 
 
 ## 📌 Project Overview
