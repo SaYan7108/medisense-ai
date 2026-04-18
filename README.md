@@ -4,8 +4,8 @@
 > AI-driven health-tech solution enhancing healthcare delivery, patient engagement, and health literacy.
 
 --
-<img width="1763" height="2746" alt="Screenshot_18-4-2026_13419_localhost" src="https://github.com/user-attachments/assets/fbf0f60c-f75a-4323-9c3c-47ae76cc570a" />
 
+<img width="1763" height="2746" alt="image" src="https://github.com/user-attachments/assets/3c9a68b3-f2b8-4ae4-8a06-310a06f6ef42" />
 
 
 ## 📌 Project Overview
